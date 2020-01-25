@@ -1,4 +1,4 @@
-﻿fileName,name,contentUrl,fileFormat
-StockInfo.csv,StockInfo.csv,,CSV
-BroodTables.csv,BroodTables.csv,,CSV
-SourceInfo.csv,SourceInfo.csv,,CSV
+fileName,name,contentUrl,fileFormat
+StockInfo.csv,StockInfo.csv,"http://example.com",CSV
+BroodTables.csv,BroodTables.csv,"http://example.com",CSV
+SourceInfo.csv,SourceInfo.csv,"http://example.com",CSV

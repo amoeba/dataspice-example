@@ -4,14 +4,9 @@ Example repo to show off [dataspice](https://github.com/ropenscilabs/dataspice).
 
 ```r
 library(dataspice)
-create_spice()
 
-prep_biblio()
-prep_coverage()
-prep_attributes()
-prep_attributes()
-
-write_spice()
-build_site()
+create_spice() # Creates metadata templates for us
+write_spice() # Creates a JSON-LD document from our metadata
+build_site() # Creates a web page from our JSON-LD
 ```
 

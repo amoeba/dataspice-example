@@ -280,19 +280,19 @@
     {
       "type": "DataDownload",
       "name": "StockInfo.csv",
-      "contentUrl": null,
+      "contentUrl": "http://example.com",
       "fileFormat": "CSV"
     },
     {
       "type": "DataDownload",
       "name": "BroodTables.csv",
-      "contentUrl": null,
+      "contentUrl": "http://example.com",
       "fileFormat": "CSV"
     },
     {
       "type": "DataDownload",
       "name": "SourceInfo.csv",
-      "contentUrl": null,
+      "contentUrl": "http://example.com",
       "fileFormat": "CSV"
     }
   ]
